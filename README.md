@@ -3,7 +3,6 @@
 
 Connect with me on: [Linkedin](https://linkedin.com/in/andrey-torrente)
 
-![ ](https://img.shields.io/badge/Contributions-280%2B-blue)
 ![ ](https://img.shields.io/badge/Favorite%20language-JavaScript-yellow)
 ![ ](https://img.shields.io/badge/Cups%20of%20coffee-99999%2B-green)
 
