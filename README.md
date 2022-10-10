@@ -8,4 +8,4 @@ Connect with me on: [Linkedin](https://linkedin.com/in/andrey-torrente)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=andreyt98&theme=github-dark-blue&layout=compact&hide_border=true)](https://git.io/streak-stats)
 
-<div><img style="height: auto; width: 40%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andreyt98&theme=radical&langs_count=8&layout=compact&hide_border=true" /></div>
+<div><img style="height: auto; width: 40%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andreyt98&theme=radical&langs_count=8&layout=compact&hide_border=true&hide=html" /></div>
