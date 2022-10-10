@@ -1,5 +1,5 @@
 <h1 align="center"> Hi! I'm Andrey! 😀</h1>
-<p>I'm a computer engineering student and a frontend development passionate, currently learning React!</p>
+<p>I'm a computer engineering student and a web development passionate!</p>
 
 Connect with me on: [Linkedin](https://linkedin.com/in/andrey-torrente)
 
