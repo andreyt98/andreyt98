@@ -1,11 +1,11 @@
-# ⚡ About Me:
-Hi! I'm Andrey! 😀<br>I'm a Software developer located in Costa Rica, focused on building software using best practices, Object Oriented Programming, MVC and layered architectures, agile methodologies and React, Nextjs, .NET Core and SQLServer as primary tools.<br>
+## About Me:
+I'm a Software developer located in Costa Rica, focused on building software using best practices, Object Oriented Programming, MVC and layered architectures, agile methodologies and React, Nextjs, .NET Core and SQLServer as primary tools.<br>
 
-# 🌐 Socials:
+# Socials:
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/andrey-torrente)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-brightgreen?style=for-the-badge&logo=hulu&logoColor=white)](https://andreytorrente.vercel.app/) <br>
 
-# 💻 Tech Stack:
+## Tech Stack:
 
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
@@ -16,7 +16,7 @@ Hi! I'm Andrey! 😀<br>I'm a Software developer located in Costa Rica, focused 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 <br>
-# 📊 Stats:
+## Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=andreyt98&theme=dark&hide_border=false)<br/>
 
 <div><img style="height: auto; width: 40%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andreyt98&theme=radical&layout=compact&hide_border=true&hide=html" /></div><br>
