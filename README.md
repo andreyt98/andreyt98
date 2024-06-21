@@ -1,7 +1,7 @@
 ## About Me:
 I'm a Software developer located in Costa Rica, focused on building software using best practices, Object Oriented Programming, MVC and layered architectures, agile methodologies and React, Nextjs, .NET Core and SQLServer as primary tools.<br>
 
-# Socials:
+## Socials:
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/andrey-torrente)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-brightgreen?style=for-the-badge&logo=hulu&logoColor=white)](https://andreytorrente.vercel.app/) <br>
 
